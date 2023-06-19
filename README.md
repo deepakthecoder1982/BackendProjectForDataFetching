@@ -1,15 +1,14 @@
 # BackendProjectForDataFetching
-A Node Js API to fetch the data using Expresses Framework
-<<<<<<< HEAD
+__A Node Js API to fetch the User's data using Expresses Framework__
 
+```
+<h2>While Making a request on /api/users/ </h2>
+```
+![Screenshot (650)](https://github.com/deepakthecoder1982/BackendProjectForDataFetching/assets/108220666/abf0e741-9136-4079-973d-268342a09301)
 
-// Making request on /api/users/
-![alt text][(http://url/to/img.png](https://drive.google.com/file/d/1k5nF3fprIfKoh539YX3K1DmAXE_nuBRA/view?usp=sharing))
-<!-- https://drive.google.com/file/d/1k5nF3fprIfKoh539YX3K1DmAXE_nuBRA/view?usp=sharing -->
+```
+<h2p>While Making a request on /api/users/:id </h2>
+```
+![Screenshot (651)](https://github.com/deepakthecoder1982/BackendProjectForDataFetching/assets/108220666/f09f05dc-3d89-40ad-8ae1-b9d9dc867991)
 
-//Making a request on /api/users/id
-<img src="https://drive.google.com/file/d/1AENAgFG0hnn2qujaSpZ_cShVhJbzM-Mt/view?usp=sharing"/?
-
-
-=======
->>>>>>> origin/main
+<h1 style="color:blue;">An Small Backend Project with Express framework! 😉</h1>
