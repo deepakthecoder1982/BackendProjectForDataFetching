@@ -1,5 +1,6 @@
 # BackendProjectForDataFetching
 A Node Js API to fetch the data using Expresses Framework
+<<<<<<< HEAD
 
 
 // Making request on /api/users/
@@ -10,3 +11,5 @@ A Node Js API to fetch the data using Expresses Framework
 <img src="https://drive.google.com/file/d/1AENAgFG0hnn2qujaSpZ_cShVhJbzM-Mt/view?usp=sharing"/?
 
 
+=======
+>>>>>>> origin/main
